@@ -8,6 +8,8 @@ rebasing example.
 
 This is example to show different parts of the Git repository and various commands using a web project.
 
+another rebasing example
+
 ## Purpose
 
 As stated above, the main purpose is to provide simple ecxamples for Git training demos.
